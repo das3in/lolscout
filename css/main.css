@@ -1,0 +1,9 @@
+body {
+  padding-top: 51px;
+}
+
+.ui-dialog-titlebar {
+    font-size: 110% !important;
+    background: #000 !important;
+    border: 0;
+}
